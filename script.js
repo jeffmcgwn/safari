@@ -1,6 +1,4 @@
-AWS.config.accessKeyId = 'AKIAJHT6O46WMLF7Y57Q';
-AWS.config.secretAccessKey = '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';
-AWS.config.region = 'us-west-2';
+
 
 const main = document.querySelector('main');
 const scoreEl = document.querySelector('#score');
